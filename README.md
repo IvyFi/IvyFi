@@ -25,7 +25,7 @@ IvyFi is a revolutionary platform designed to empower users by providing safe, s
 
 - **Total Supply:** 100 million IVYFI tokens.
 - **Distribution:**
-  - Team: 15 million IVYFI (13 million released over 5 years; 2 million reserved).
+  - Team: 15 million IVYFI (12 million released over 5 years; 3 million reserved).
   - Community Rewards Fund: 10 million IVYFI.
   - Presale: 20 million IVYFI.
   - Ecosystem Fund: 35 million IVYFI.
